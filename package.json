@@ -1,0 +1,22 @@
+{
+  "name": "async-shim",
+  "version": "1.0.0",
+  "description": "Promise wrapper to simplify handling of catch and passing to your express error handler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Coming soon\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ikhnaton/async-shim.git"
+  },
+  "keywords": [
+    "async",
+    "error",
+    "handler",
+	"shim",
+	"helper"
+  ],
+  "author": "ikhnaton <ikhnaton@techie.com>",
+  "license": "MIT"
+}
